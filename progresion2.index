@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="progresioon2.css">
+    <link rel="icon" href="imagenes/icon2.jpeg"> type="imagen/jpeg"
+    <title>Progresión 2</title>
+</head>
+<body>
+    <div class="Titulo">
+        <h1>LA ENERGÍA Y SUS MANIFESTACIONES: CAMPOS ELECTROMAGNÉTICOS, ENERGÍA TERMICA Y ENERGÍA CINETICA</h1>
+    </div>
+    <div class="INFORMACIÓN">
+        <p style="font-size: 30px;">La energía impulsa todos los fenómenos y procesos que experimentamos en el mundo, participa en la transferencia de cambios y la interconexión entre diferentes tipos de energías.</p>
+        <p style="font-size: 30px;">La <strong>transducción de energia</strong> se refiere al proceso de conversión de una forma de energía a otra, permitiendo que la energía fluya y se transforme a través de diferentes sistemas y escalas.</p>
+    </div>
+    <div class="INFORMACIÓN">
+        <center><h1>La energia en campos electromagnéticos</h1></center>
+        <center><img style="border-radius: 20%;" src="imagenes/camposdeenergia.jpeg" width="400" height="400"></center>
+        <p>Los campos electromagnéticos se originan a partir de la interacción entre partículas cargadas. La diversidad de campos electromagnéticos abarca desde las microondas que se utilizan para calentar alimentos, hasta los rayos X que examinan el interior de objetos y cuerpos.</p>
+        <h1>FORMAS DE ENERGÍA</h1>
+        <p>Las formas de energíaa son todas aquellas que se formaron a partir el <strong>BIG BANG</strong> o gran explosión</p>
+        <h1><font color="Blue">Energía Mecánica</font></h1>
+        <p>Este tipo de energía está compuesta de energía cinética y potencial, por lo tanto, la energía mecánica es la suma de la energía cinética (K) más la potencial (U)</p>
+        <div class="subtitulo">
+            <h1>E<font size="5px">m</font> = K + U</h1>
+        </div>
+        <h1><font color="Blue">Energía Cinética</font></h1>
+        <p>Es la energía que tiene un cuerpo debido a su movimiento, depende de la masa (m) y la velocidad del cuerpo (v).</p>
+        <div class="subtitulo">
+            <h1>K= 1/2mv2</h1>
+        </div>
+        <h1><font color="Blue">Energía Potencial</font></h1>
+        <p>La <strong>energía potencial gravitacional</strong> influye en cómo los objetos interactúan bajo la fuerza de gravedad. La <strong>energía potencial elástica</strong> se presenta en objetos deformables como resortes y fibras musculares.</p>
+        <p>La energía <strong>potencial gravitacional</strong> es aquella que posee un cuerpo por estar en cierto punto dentro de la región de acción de la fuerza gravitacional. Esta energía depende de la masa (m), de la aceleración debida a la fuerza de gravedad (g) y de la distancia de la cual se encuentra el objeto de un punto de referencia (h), se representa como:</p>
+        <div class="subtitulo">
+            <h1>U<font size="3px">grav</font> = mgh</h1>
+        </div>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Energía térmica y calor</h1>
+        <p>La <strong>energía térmica</strong> se refiere a aquella que los objetos poseen debido al movimiento de sus partículas a nivel microscópico. La <strong>temperatura</strong> es una medida de cuán caliente o frío está un objeto y es una propiedad que puede medirse con termómetros.<br>
+        El <strong>calor</strong> es la fomra de energía térmica que fluye entre objetos con diferentes temperaturas y se transfiere del objeto más caliente al más frío hasta que ambos alcanzan un equilibrio térmico</p>
+        <center><img style="border-radius: 20%;" src="imagenes/energiater.jpeg" width="300" height="300"></center>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Energía nuclear</h1>
+        <p> Este tipo de energia proviene del núcleo atómico. La energía del núcleo atómico se puede obtener mediandte dos procesos diferentes; en el primero la energía se produce cuando los núcleos se fusionan, es decir, que se juntan para formar un núcleo con una masa más grande, dicho proceso se conoce como <strong>fusión nuclear</strong>.</p>
+        <center><img style="border-radius: 20%;" src="imagenes/energia nuclear.jpeg" width="300" height="300"></center>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Energía radiante</h1>
+        <p>Corresponde a la energía que transportan las ondas electromagnéticas. Las ondas electromagnéticas se clasifican por su tmaño, llamado <strong>longitud de onda</strong>, su energía esta asociada a su frecuencia de oscilación.</p>
+        <center><img style="border-radius: 20%;" src="imagenes/radiante.jpeg" width="300" height="300"></center>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Energía química</h1>
+        <p>Proviene de la ocurrencia de una reacción química en la cual se libera energía, a estas se les conoce como <strong>reacciones exotérmicas</strong>.</p>
+        <center><img style="border-radius: 20%;" src="imagenes/enerqui.jpeg" width="300" height="300"></center>
+    </div>
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="progresioon11.css">
+    <title>Progresion 11</title>
+</head>
+<body>
+    <div class="Titulo">
+        <h1>EL FUNCIONAMIENTO DE LOS SISTEMAS Y LA DISPONIBILIDAD DE ENERGÍA</h1>
+    </div>
+    <div class="INFORMACIÓN">
+        <p>La presencia de la energía y su disponibilidad determinan la capacidad de los sistemas para realizar un trabajo, impulsar procesos, y en última instancia, sostener la existencia y evolución de las estructuras y funciones involucradas.
+            <br>
+            La gestión de los recursos energéticos y la implementación de las politicas energéticas sostenibles garantiza la disponibilidad de energía a largo plazo y mitiga los impactos ambientales asociados a la producción y uso de energía que están directamente vinculadas a las emisiones de gases de efecto invernadero.
+        </p>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Energía y Funcionamiento de los sistemas</h1>
+        <p>La energía dentro de un sistema se rige por la primera y segunda ley de la termodinámica. La <strong>segunda ley</strong> establece que los sistemas tienden hacia un estado de mayor entopía. En el ambito de los sistemas, esto significa que siempre hay una búsqueda, ya sea natural o artificial.</p> <center><img src="imagenes/a6tp.jpeg"></center>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Eficiencia y Optimización del uso de la Energía</h1>
+        <p>La eficiencia energética y la optimización del uso de la energia se han convertido en elementos centrales en la gestión energética moderna; bajo la bandera de la sostenibilidad y la necesidad de reducir las emisiones de gases de efecto invernadero, estos dos conceptos emergen como una brújula que guía hacia el consumo consciente, la conservacio¿ón y la conversión eficiente de la energía, forjando un camino hacia un futuro energético más sostenible y responsable, por lo tanti, promover una cultura de consumo energético consciente a través de la educación y difusión de prácticas energeticas sostenibles,y el desarrollo y la promocion de comportamiento de habitos que reduzcan el uso innecesario de la energia son clave en el uso eficiente optimo de la energia.</p>
+        <center><img src="imagenes/as.jpeg"></center>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Impacto de la escasez energética</h1>
+        <p>La escasez energetica es una realidad que se manifiesta cuando la oferta de energía es insuficiente para satisfacer la demanda y representa una problematica multidimensional que abarca desde los ámbitos económicos hasta los sociales. Tambien tiene implicaciones ambientales, la urgencia para satisfacer la demanda impulsa el uso de fuentes no renovables o menos sostenibles, en consecuencia, aspectos negativos para el medio ambiente. Por otro ladom la necesidad de garantizar un suministro de energía puede generar tensiones politicas internas, especialmente si diferentes sectores o regiones compiten por recursos energéticos limitados, debido a que la escasez de energía puede intensificar los conlfictos geopoliticos por el control de los recursos energeticos</p>
+        <br>
+        <center><img src="imagenes/pero.jpeg" width="400" height="400"></center>
+    </div>
+</body>
+</html>

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>LA MATERIA Y SUS INTERACCIONES</title>
+    <link rel="stylesheet" href="portadaordaz.css">
+    <link rel="icon" href="imagenes/iconofisica.jpg" type="image/jpeg">
+</head>
+<body>
+    <center><table bordercolor="white"></center>
+        <tr>
+            <td><center><img src="imagenes/dgeti" width="150" height="150"></td></center>
+            <td><center><h1>CENTRO DE ESTUDIOS TECNOLOGICO INDUSTRIAL Y DE SERVICIO NUM 79</h1></td></center>
+            <td><center><img src="imagenes/cetis 79.jpeg" width="150" height="150"></center></td>
+        </tr>
+    </table>
+    <center><font size="6" face="Arial"><b><p>COATZACOALCOS, VERACRUZ</p></b></center></font>
+    <p><b><font size="6">ESPECIALIDAD: OFIMATICA</b></p></font>
+    <br>
+    <p><b><font size="6">CONSERVACIÓN DE LA ENERGÍA Y SUS INTERACCIONES CON LA MATERIA</b></p></font>
+    <p><b><font size="6">CULTURA DIGITAL II</b></p></font>
+    <img src="imagenes/fisica.jpg" width="350" height="350">
+    <p><b><font size="6">ALUMNO:</b></p></font>
+    <p><b><font size="6">ECHEVARRÍA MIGUEL LUIS FERNANDO</b></p></font>
+    <br>
+    <br>
+    <p><b><font size="6">GRUPO:2°O</b></p></font>
+    <br>
+    <br>
+    <p><b><font size="6">El proposito de esta página web es retroalimentar los temas vistos en todas las progresiones del libro.</b></p></font>
+    <br>
+    <br>
+    <br>
+    <font size="6"><a href="enlace a la pagina.html">PAGINA WEB</a></font>
+</body>
+</html>

@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(187, 186, 186);
+}
+.Titulo {
+    font-size: 20px;
+    text-shadow: 10px 4px 5px rgba(0, 0, 0, 0.349);;
+    font-weight: bolder;
+    color: #ffff;
+    box-shadow: 10px 10px 2px 1px rgba(0, 0, 0, 0.349);
+    text-align: center;
+    border-radius: 20px;
+    margin: 30px 0px 0px 350px;
+    width: 520mm;
+    background-color: rgb(77, 77, 77);
+    padding: 10px;
+}
+.INFORMACIÓN {
+    display: inline-block;
+    box-shadow: 10px 10px 2px 1px rgba(0, 0, 0, 0.349);
+    text-align: justify;
+    border-radius: 20px;
+    margin: 160px;
+    width: 380mm;
+    height: 1710px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+.imr {
+    display: inline-block;
+    background-image: url(https://th.bing.com/th/id/OIP.a43VErGVukIBfajrNyRqzgHaHa?w=226&h=180&c=7&r=0&o=5&pid=1.7);
+    box-shadow: 10px 10px 2px 1px rgba(0, 0, 0, 0.493);
+    background-size: contain;
+    background-position: -600px;
+    border-radius: 20px;
+    margin: auto;
+    height: 1710px;
+    width: 80mm;
+    padding: 10px;
+}
+.iml {
+    display: inline-block;
+    background-image: url(https://th.bing.com/th/id/OIP.a43VErGVukIBfajrNyRqzgHaHa?w=226&h=180&c=7&r=0&o=5&pid=1.7);
+    box-shadow: 10px 10px 2px 1px rgba(0, 0, 0, 0.493);
+    background-size: contain;
+    background-position: -600px;
+    border-radius: 20px;
+    margin-left: 100px;
+    height: 1710px;
+    width: 80mm;
+    padding: 10px;
+}
+.card {
+    line-height: 1.5;
+    text-align: center;
+    display: inline-block;
+    color: #ffff;
+    text-align: center;
+    background: rgb(236, 113, 113);
+    width: 550px;
+    height: 800px;
+    margin: auto;
+    margin: 160px;
+    margin-top: 50px;
+    padding: 20px 10px;
+    box-shadow: 0px 0px 25px #0007;
+    border-radius: 10px;
+
+}
+.green_card{
+    background: rgb(29, 165, 29);
+}
+.red_card {
+    background: red;
+}
+.gray_card{
+    background: gray;
+}
+.purple_card {
+    background: purple;
+}
+.yellow_card {
+    background: rgb(163, 163, 0);
+}
+.orange_card {
+    background: orange;
+}
+.blue_card {
+    background: blue;
+}
+.brown_card {
+    background: brown;
+}
+
+.card_title {
+    letter-spacing: 2px;
+    font-size: 50px;
+    margin: 0;
+}
+.card_info {
+    margin-top: 5px;
+    margin: 0;
+    padding: 20px;
+    font-size: 30px;
+}
+.imgc {
+    width: 30dvb;
+    border-radius: 50%;
+    margin-bottom: 40px;
+}
+a {
+    text-decoration: overline underline;
+    color: #ffffff;
+}

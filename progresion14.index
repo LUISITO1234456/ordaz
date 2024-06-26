@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="progresioon14.css">
+    <title>Progresión 14</title>
+</head>
+<body>
+    <div class="Titulo">
+        <h1>El principio de conservación de la energía</h1>
+    </div>
+    <div class="INFORMACIÓN">
+        <p>La energía se encuentra en constante cambio todo el tiempo, el cual se aprovecha para la generacion de energia en favor de la vida. Para aprovechar mejor la energía, se buscan sistemas más eficientes, es decir, que hagan más o menos.
+            <br>
+            El consumo energetico promedio por dia, recomendado para una persona adulta con poca actividad fisica, es un aproximado de 2300 kcal que equivalen a 9623.2 kJ
+        </p>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Balance de Energía y Materia</h1>
+        <p>Este concepto se centra en la cuantificación y gestión meticulosa de estos dos componentes en cualquier sistema, asegurando que los recursos se utilicen de manera eficiente y sostenible. Cada energía entra, se genera, se consume y sale de un sistema debe de ser cuidadosamente contabilizada para asegurar que no existan perdidas de energia.</p>
+        <center><img src="imagenes/economi.jpeg" width="400" height="400"></center>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Eficiencia y perdidas de energia</h1>
+        <p>La eficiencia energetica no se limita solo a la implementacion de tecnologias avanzadas; tambien implica rediseño y la optimización de los procesos existentes para minimizar las perdidas de energía.</p>
+        <center><img src="imagenes/efio.jpeg" width="400" height="400"></center>
+    </div>
+</body>
+</html>

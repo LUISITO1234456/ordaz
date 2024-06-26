@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="progresioon5.css">
+    <title>Progresión 5</title>
+</head>
+<body>
+    <div class="Titulo">
+        <h1>La transferencia de energía promueve el cambio de estado y/o movimiento de la materia en un sistema</h1>
+    </div>
+    <div class="INFORMACIÓN">
+        <p>La energía es la fuerza impulsora detrás de los cambios en la materia, ya sea en términos de cambios de estado, movimiento o transformaciones químicas. La materia puede existir en diferentes estados, sólido, líquido, gas o plasma.<br>
+        El <strong>cambio de estado</strong> es un fenómeno que ocurre en la materia cuando experimenta alteraciones en su estructura molecular, lo que da como resultado la transición entre diferentes estados físicos: sólidos, líquidos, gas o plasma. El cambio de estado implica la transición de una sustancia de un estado a otro debido a cambios en la temperatura y la presión. Estos cambios afectan la energía cinética y las fuerzas intermoneculares entre las partículas de la materia. A medida que se agrega o se retira energía térmica, las partículas ganan o pierden energía, lo que conduce a cambios en la organización y la velocidad de movimiento.</p>
+    </div>
+    <img style="border-radius: 20%;" src="imagenes/agregacion.jpeg" width="400" height="400">
+    <br>
+    <img style="border-radius: 20%;" src="imagenes/xd.jpeg" width="400" height="400">
+    <div class="INFORMACIÓN">
+        <h1>Movimiento de partículas y energía</h1>
+        <p>El movimiento de las partículas y la energía sonconceptos entrelazados en el mundo de la Física y la Química. Esta relación es útil para comprender cómo la materia se comporta, cambia e interactúa en el universo y explorar el movimiento de partículas y su conexión con la energía nos permite estudiar qué ocurre dentro de la materia a escalas macroscópicas. <br>
+        A temperaturas más altas, las partículas tienen más energía y se mueven más rápido, a temperaturas más bajas, las partículas tienen menos energía y se mueven más lentamente</p>
+    </div>
+    </div>
+    <div class="INFORMACIÓN">
+        <center><h1>La fuerza como causante del estado de movimiento de los cuerpos</h1></center>
+        <h1>LA PRIMERA LEY DE NEWTON</h1>
+        <p>Un objeto permanecerá en reposo o moviéndose en línea recta con velocidad constante, a menos que interactue con una fuerza neta externa</p>
+        <center><img style="border-radius: 20%;" src="imagenes/primera ley.jpeg" width="400" height="400"></center>
+        <br>
+        <h1>LA SEGUNDA LEY DE NEWTON</h1>
+        <p>El movimiento dee los cuerpos con aceleración constante señala que si sobre un cuerpo de masa <strong>m</strong> actúa una fuerza neta, entonces éste recibirá una aceleración.</p>
+        <center><img style="border-radius: 20%;" src="imagenes/segunda ley.jpeg" width="400" height="400"></center>
+        <br>
+        <h1>LA TERCERA LEY DE NEWTON</h1>
+        <p>Es conocida como la ley de acción y reacción, ya que las fuerzas en la naturaleza se presentan por pares. En este punto hay que ser cuidadosos, pues no todas las fuerzas de igual magnitud y dirección contraría son fuerzas actúan sobre diferentes cuerpos.</p>
+        <center><img style="border-radius: 20%;" src="imagenes/tercera ley.jpeg" width="400" height="400"></center>
+    </div>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="progresioon7.css">
+    <title>Progresión 7</title>
+</head>
+<body>
+    <div class="Titulo">
+        <h1>La energía necesaria para cambiar la temperatura de un objeto depende e su tamaño, naturaleza y del medio.</h1>
+        </div>
+    <div class="INFORMACIÓN">
+        <p>La relación entre la energía y la variación de temperatura en un objeto es un ascpecto que involucra una serie de variables clave, como el tamaño del objeto en cuestión, su composición o las características del medio circulante.</p>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Energía, temperatura y tamaño de un objeto</h1>
+        <p>El tamaño de un objeto se revela como una propiedad extensiva de la materia, lo cual implica que esta característica depende de la cantidad de sustancia presente en el sistema.
+        <br>
+        La relación entre la energía, la temperatura y el tamaño de un objeto tiene numerosas aplicaciones en la vida cotidiana. Desde la cocción de alimentos hasta el funcionamiento de motoresde automóviles, comprender cómo se mueve la energía térmica a través de los objetos es esencial.<br>
+        <center><img style="border-radius: 20%;" src="imagenes/tamaño.jpeg" width="400" height="400"></center>
+        </p>
+    </div>
+    <div class="INFORMACIÓN">
+    <h1>Efecto de la naturaleza del material</h1>
+    <p>La influencia de la naturaleza en su respuesta al cambio de temperatura también es un factor crítico en la determinación de su estabilidad térmica. La estructura y composición intrinsecas de un material son los pilares que determinan estas características, como se ha explorado al estudiar la capacidad calorífica y conductividad térmica.
+        <br>
+    La <strong>estabilidad térmica de un material</strong> es la capacidad para mantener una estructura y propiedades intactas cuandos se somete a variaciones de temperatura. Esto depende en gran medida de como están dispuestas las partículas en su estructura y cómo interactúan entre sí.
+    <br>
+    Otros ejemplos son los polímeros que exhiben una amplia gama de comportamientos térmicos, debido a su estructura y composición. Algunos son estables a altas temperaturas y se utilizan en  aplicaciones de mayor importancia o seguridad, mientras que otros son menos estables y se usan en aplicaciones degradables.
+    <br>
+    <center><img src="imagenes/termno.jpeg" width="800" height="600"></center>
+    </p>
+</div>
+<div class="INFORMACIÓN">
+    <h1>La influencia del medio en la transferencia de energía</h1>
+    <p>La <strong>conducción térmica</strong> es una forma de transferencia de enrgía que produce a través del contacto directo entre partículas de un material, su velocidad y eficiencia están influenciadas por la naturalezadel material y su densidad; por ejemplo en un metal como el cobre, las partículas están estrechamente empaquetadas y transfieren energía térmica de manera eficiente, lo que hace que el cobre sea un buen conductor térmico.<br>
+    La <strong>radiación</strong> es la transferencia de energía en forma de ondas electromagnéticas, como la luz y el calor. La eficacia de la radiación termica está influenciada por las propiedades del medio que rodea al objeto irradiante.</p>
+    <br>
+    <center><img src="imagenes/rad.jpeg" width="400" height="400"></center>
+</div>
+</body>
+</html>

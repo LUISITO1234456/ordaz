@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="progresioon9.css">
+    <title>Progresión 9</title>
+</head>
+<body>
+    <div class="Titulo">
+        <h1>La energía no se crea ni se destruye, pero puede ser transportada y transferida entre sistemas</h1>
+    </div>
+    <div class="subtitulo">
+        <h1>La energía se puede definir como la capacidad de un cuerpo para realizar un trabajo.</h1>
+    </div>
+    <div class="INFORMACIÓN">
+        <p>La energía total del universo es una cantidad constante, es decir, que si sumamos todas las formas posibles de energía que existen siempre tendremos la misma cantidad. En este sentido, toda <strong>fuente</strong> y toda energía que se "gasta" se convierte en otro tipo de energía.
+        <br>
+        El aumento acelerado de la población mundial, el crecimiento de las ciudades, así como la incorporación de actividades comerciales, industriales y tecnológicas, ha dado como resultado un mayor consumo de energía en todo el planeta. La energía es necesaria para la industria, la agricultura, hogar, etc.</p>
+    </div>
+    <div class="subtitulo">
+        <h1>La cantidad total de energía en un sistema aislado permanece constante con el tiempo. Aunque la energía no se crea nii se destruye, puede cambiar de forma y ser transferida de un lugar a otro</h1>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Transferencia de energia entre sistemas</h1>
+        <p>La transferencia de energia es un fenomeno que observamos en la naturaleza y desempeña un papel importante en múltiples procersos y sistemas. Está energia puede moverse de diversas maneras, ya sea a través de la conducción, donde el calor fluye, debido a la interacción directa de partículas; la convección, en el que el calor se mueve con la ayuda de fluidos; o la radiación, en la que la energia se propaga mediante ondas electromagneticas.</p>
+        <center><img src="imagenes/celu}.jpeg"></center>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>Cadenas de transferencia de energia</h1>
+        <p>La energia fluye continuamente desde una fuente a otra, por medio de diferentes etapas en lo que se conoce como <strong>cadenas alimentarias o redes tróficas</strong>. A meedida que la energia fluye a través de estas cadenas, se transforma de una forma a otra.un ejemplo de ello es la fotosintesis.</p>
+        <center><img src="imagenes/foto.jpeg" width="400" height="400"></center>
+    </div>
+</body>
+</html>

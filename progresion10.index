@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="progresioon10.css">
+    <title>Progresión 10</title>
+</head>
+<body>
+    <div class="Titulo">
+        <h1>La energia no se destruye, pero puede convertirse en formas de menor utilidad</h1>
+    </div>
+    <div class="INFORMACIÓN">
+        <p>La energía que empleamos en la actualidad es la misma que ha sido transmitida a través del cosmos desde aquel inicial y misterioso Big Bang, así comprobamos que la energia no se crea ni se destruye; se transforma, se transfiere y se traslada de diferentes medios y formas.</p>
+        <h1>Explorando sus origenes</h1>
+        <p>En el inicio no habia luz, ni estrellas, no habia sistemas planetarios, solo existia un unfinitesimal punto llamado <strong>singularidad</strong> que concentraba toda la materia y energía.
+        <br>
+    La radiación ha permitido el desarrollo y sostenibilidad de la vida en nuestro planeta, proporcionando la energía necesaria para la fotosintesis y por lo tanto establecioendo la base de las redes tróficas. Mientras la naturaleza fluye la energia tambien fluye de manera sostenible y sin crear inestabilidades irreparables en los ecosistemas.
+<br>
+La gestión sostenible de la energia se ha vuelto crucial en un mundo conectado digitalmente y su relación entre el Big Bang y el internet nos recuerda que debemos ser responsables ante los desafios energeticos actuales para preservar tanto nuestro planeta como el legado cósmico de la energia que se ha transmitidp a lo largo del tiempo</p>
+<center><img src="imagenes/bigbtgasvd.jpeg" width="400" height="400"></center>
+    </div>
+</body>
+</html>

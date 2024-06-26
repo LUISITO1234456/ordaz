@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="progresioon1.css">
+    <link rel="icon" href="imagenes/energia.jpeg"> type="imagen/jpeg"
+    <title>Progresión 1</title>
+</head>
+<body>
+    <div class="Titulo">
+        <h1>Transferencia de energía entre objetos mediante colisiones: movimiento, sonido, luz y calor</h1>
+    </div>
+    <div class="INFORMACIÓN">
+        <p style="font-size: 30px;">Dentro del universo reside un concepto que cumple un papel esencial en todas las tareas que experimentamos diariamente: la energía. Desde el amanecer que trae consigo la luz solar hasta el ocaso que marca el final del día, cada movimiento, sonido y destello luminoso que presenciamos es una manifestación tangible de esya entidad a la que conocemos como energía.</p>
+        <h1>La energía</h1>
+        <p style="font-size: 30px;">La <strong>energía</strong> es un concepto que impulsa todos los procesos y fenómenos que experimentamos en nuestro planeta; se presenta de muchaas formas: la luz que ilumina nuestros días o el calor que nos hace sentir cómodos; sin embargo va más allá de ser sólo un fenómeno físico, pues es una entidad de constante cambio y transformación.
+        Es la capacidad de realizar un trabajo; es lo que hace que los objetos se muevan, los sistemas funcionen y los procesos ocurran. La energía adopta diferentes formas, como aquella asociada al movimiento, denominada <strong>energía cinética</strong>; la <strong>energía potencial</strong> es la relacionada con la posición o la <strong>energía térmica</strong> que se manifiesta en forma de calor, entre muchas otras.</p>
+        <center><img style="border-radius: 30%;" src="imagenes/energia.jpeg" width="500" height="500"></center>
+    </div>
+    <div class="subtitulo">
+        <h1>La energia no se puede crearse ni destruirse, sólo puede transformarse de una a otra</h1>
+    </div>
+    <div class="INFORMACIÓN">
+        <h1>La naturaleza de la energía</h1>
+        <p style="font-size: 30px;">La energia impulsa a todos los procesos en el universo, desde la radiación solar hasta el movimiento de los objetos cotidianos que nos rodean. A pesar de los avances en nuestro conocimiento sobre la energía, su comprensión aún permanece incompleta. Muchos cientificoshan centrado su atención en la minúscula escala microscópica, investigando o que ocurre a nivel atómico.<br>
+        <h1>La energía en movimiento</h1><br></p>
+    <p style="font-size: 30px;">La <strong>energía</strong> es un fenómeno que está en todas y cada una de las partes del universo y se encuentra en un estado activo, siendo la fuerza motriz que impulsa los cambios que experimentamos en el mundo, donde este constante movimiento se realiza a través de diversos mecanismos. Uno de ellos es la propagación de ondas, como lo que son el sonido o como la luz.</p>
+    <center><img style="border-radius: 10%;" src="imagenes/ondas.jpeg" width="900 height900"></center>
+    </div>
+    <br>
+    <div class="INFORMACIÓN">
+        <h1>Colisiones y Transferencia de energía</h1>
+        <p style="font-size: 30px;">La energía también se puede propagar mediante colisiones entre partículas. En una <strong>colisión elástica</strong>, las particulas chocan y se separan conservando tanto el momento como la energía cinética total; en una colisión <strong>inelástica</strong>, parte de la energia cinética se transforma en energía interna, lo que puede cambiar la velocidad y dirección de las particulas involucradas. <br>
+        Estos tipos de colisiones permiten que la energía se redistribuya de manera diferente entre las particulas, desempeñando un papel crucial en la dinámica energética en sistemas a macro y microescala.</p>
+        <center><img src="imagenes/colisiones.jpeg" style="border-radius: 20%;" width="500" height="500"></center>
+    </div>
+</body>
+</html>
